@@ -1,4 +1,4 @@
-![Examples](img/P100.png)
+![Examples](P100.png)
 
 ### Publication
 1. Pal, Ratnabali, Samarjit Kar, and Arif Ahmed Sekh. "Customizable and Programmable Deep Learning." International Conference on Pattern 
