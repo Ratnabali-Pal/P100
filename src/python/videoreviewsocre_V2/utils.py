@@ -1,0 +1,9 @@
+# scripts/utils.py
+
+def jaccard_similarity(x, y):
+    """
+    Calculates the Jaccard similarity between two lists of words.
+    """
+    intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
+    union_cardinality = len(set.union(*[set(x), set(y)]))
+    return intersection_cardinality / float(union_cardinality)
