@@ -1,0 +1,4 @@
+pytesseract
+wand
+opencv-contrib-python
+Pillow==9.3.0
